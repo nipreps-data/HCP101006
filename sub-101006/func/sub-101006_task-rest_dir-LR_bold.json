@@ -1,0 +1,6 @@
+{
+  "TaskName": "Resting-state fMRI",
+  "RepetitionTime": 0.72,
+  "MultibandAccelerationFactor": 8,
+  "PhaseEncodingDirection": "i"
+}

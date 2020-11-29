@@ -1,0 +1,10 @@
+{
+  "EchoTime1": 0.00492,
+  "EchoTime2": 0.00738,
+  "IntendedFor": [
+    "func/sub-HCP101006_task-rest_dir-LR_bold.nii.gz",
+    "func/sub-HCP101006_task-rest_dir-LR_sbref.nii.gz",
+    "func/sub-HCP101006_task-rest_dir-RL_bold.nii.gz",
+    "func/sub-HCP101006_task-rest_dir-RL_sbref.nii.gz"
+  ]
+}
