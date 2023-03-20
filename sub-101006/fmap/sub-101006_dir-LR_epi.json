@@ -5,7 +5,7 @@
   "EPIFactor": 90,
   "BandwidthPerPixelPhaseEncode": 2290,
   "IntendedFor": [
-    "func/sub-HCP101006_task-rest_dir-RL_bold.nii.gz",
-    "func/sub-HCP101006_task-rest_dir-RL_sbref.nii.gz"
+    "func/sub-101006_task-rest_dir-RL_bold.nii.gz",
+    "func/sub-101006_task-rest_dir-RL_sbref.nii.gz"
   ]
 }
