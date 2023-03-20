@@ -1,0 +1,7 @@
+{
+  "PhaseEncodingDirection": "i",
+  "MultibandAccelerationFactor": 1,
+  "EffectiveEchoSpacing": 0.00058,
+  "EPIFactor": 90,
+  "BandwidthPerPixelPhaseEncode": 2290
+}
